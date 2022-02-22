@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of the Kings Maiesties letters patents, concerning the reformation of the abuses vsed in melting and making vp of lead, and the sealing of the same.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22203</idno>
+            <idno type="STC">STC 8610.5</idno>
+            <idno type="STC">ESTC S3884</idno>
+            <idno type="EEBO-CITATION">33151127</idno>
+            <idno type="OCLC">ocm 33151127</idno>
+            <idno type="VID">28944</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28944)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:110)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of the Kings Maiesties letters patents, concerning the reformation of the abuses vsed in melting and making vp of lead, and the sealing of the same.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Thomas Purfoot,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1619]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information suggested by STC (2nd ed.).</note>
+                  <note>Formerly STC 8745.</note>
+                  <note>Imperfect: cropped and tightly bound, with loss of text. Best copy available for photographing.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lead industry and trade --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:28944:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>I R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT.</q>
+                  <q xml:lang="frm">HONI · SOIT · QVI · MAL · Y · PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion, Tudor rose, and Irish harp on one side and the Scottish unicorn, thistle, and French fleur-de-lis on the other</figDesc>
+               </figure>
+            </head>
+            <head>The Copy of the Kings Maieſties Letters Patents, concerning the reformation of the Abuſes vſed in melting and <hi>making vp of Lead, And the Sealing of the ſame.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">I</seg>AMES, By the Grace of God, King of England, Scotland, France, &amp; Ireland; Defender of the Faith, &amp;c. To all to whom theſe preſents ſhall come, gréeting.</salute>
+            </opener>
+            <p>Whereas Wée are giuen to vnderſtand, that by the diggers &amp; getters of Lead-Oare out of the Mynes within this Kingdome of <hi>England</hi> and the Dominion of <hi>Wales,</hi> the ſaid Oare is carryed and conueyed vnto diuers Melting or Smelting houſes, where the ſaid Oare is melted &amp; made into great Lumpes or péeces of Lead, commonly called <hi>Pigges</hi> or <hi>Sowes</hi> of Lead: And that diuers abuſes, deceipts, fraudes, practiſes and deuices are there daily vſed and committed in the melting and making up of the ſaid <hi>Sowes</hi> or <hi>Pigges</hi> of Lead, by putting therein great lumpes of Scindars &amp; other vnprofitable ſtuffe, not only to the diſgrace and viliflyng of that commodity, but alſo to the manifeſt wrong and preiudice aſwell of Us and of the Subiects of our owne Kingdomes, as of all other Nations and Countries which buy and vſe the ſame; For our better ſatiſfaction wherein, wée referred the examination and conſideration thereof to certaine our Commiſſioners. And whereas the ſaid Commiſſioners haue certified in writing vnder their hands, that it appeareth aſwell vpon conference with the Plombers that haue the greateſt dealing in Lead, as with ſundry Marchants of this our Realme, That the ſaid Information giuen to Us is true, and that a reformation héerin is deſired, and that it is a great diſgrace to the Lead of this Realme in Forraign parts, that the ſame abuſes are not reformed; and that the ſame abuſe appeared alſo, not onely by approbation vpon melting of diuers <hi>Sowes</hi> and <hi>Pigges,</hi> or quantities of Lead, in which there was found extraordinary waſte that was good for nothing; But alſo by ſeuerall Certificates from Marchants in Forraigne parts which haue bought of the ſaid Engliſh-Lead, and haue certified that there is great deceipt vſed in the ſaid Lead that co<g ref="char:cmbAbbrStroke">̄</g>meth into Forraigne parts out of this our Realme of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> And that thoſe that do melt the ſaid Lead in Forraign parts, do alwaies find great heauy péeces of vnprofitable ſtuffe in the midſt of the <hi>Pigges</hi> which can be put to no vſe, &amp; that oftentimes they find great ſtones in the middeſt therof, to the great loſſe of thoſe that deale with the ſame, &amp; for which they could neuer get reſtitution; the ſaid Marchants ſhall be forced to giue ouer their dealing with Engliſh-Lead, vnleſſe the abuſes were reformed. And the ſaid Commiſſioners hath likewiſe certified vnto Us, that foraſmuch <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eared vnto them, that there is Abuſe and deceipt vſed in making vp of Lead, wherof both the Plombars &amp; Marchants deſire reformation; They hold it fit &amp; conuenient, that ſome courſe ſhould <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therin, ſo as neither the Plombar that dealeth with the commodity at home, nor the Marchant that ventureth the ſame abroad in Forraigne parts, might haue cauſe to complaine as héertofore <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> done.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hauing had conſideration of the premiſſes, and being very deſirous, &amp; holding it in our Princely Iudgment a thing moſt fit, and properly belonging to our Regall Office, by the beſt &amp; moſt ſpéedy <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wée may to preuent, ſubuert and extinguiſh fraudes &amp; practiſes attempted and put in vre for vniuſt and priuate ends, and for particular lucre and gaine, to the generall detriment and preiudice <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mmon-wealth of this our Kingdome; attended with the diſgrace &amp; diſcredit of the Marchandizes of the ſame, and the hindrance of the trade and Traffique of our Subiects in Foraigne parts; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th béen famous throughout all Nations. And finding no better way for the effecting therof, then by ymploying ſome perſon or perſons of truſt &amp; skill, who may ſuruey &amp; ſée to the melting &amp; making <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> ſaid Lead into <hi>Pigges</hi> or <hi>Sowes</hi> of Lead before it be ſent from the melting houſes, or by other conuenient meanes may try &amp; proue the goodnes &amp; well making of the ſaid <hi>Pigges</hi> and <hi>Sowes</hi> of Lead, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her Lead by what name ſoeuer melted or made, and therupon ſet a Marke or Stampe on them for the better vnderſtanding of the true making vp therof. Of Our certaine Knowledge &amp; méere <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> haue willed, ordained, conſtituted and appointed, and by theſe preſents, for Us, our Heires and Succeſſors, Doe will, ordaine, conſtitute and appoint, that for euer héereafter there ſhall be an <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich ſhall be, and ſhall be called the Office of Surueyor of Us, our Heires &amp; Succeſſors of Lead. And that there ſhall be for euer héereafter, one or more perſon or perſons, by Us, our Heires <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ſſors to be nominated &amp; appointed, which ſhall be, and ſhall be called the Surueyor &amp; Surueyors of Us, our Heires &amp; Succeſſors of Lead. Unto which Officer &amp; Officers, Wée doe héereby <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Heires &amp; Succeſſors, giue &amp; grant full power, and authority by himſelfe or themſelues, or his or their ſufficient Deputy or Deputies, aſſigne or aſſignes, from time to time to repaire vnto all <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the melting or ſmelting houſes, which now be, or héerafter ſhall be, within our ſaid Realme of <hi>England,</hi> and Dominion of <hi>Wales,</hi> or any part of them, or either of them, where Lead is, or ſhall <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> or made vp, and there to haue and take a diligent veiw &amp; Suruey of all Lead ſo melted or made vp within our ſaid Realme &amp; Dominion. And alſo to ouerſée the melting &amp; making vp thereof. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>viſe by all good waies and meanes Hée or they may, to ſearch &amp; try the ſaid <hi>Pigges</hi> &amp; <hi>Sowes,</hi> and other quantities or lumpes of Lead ſo to be made, and vpon approbation thereof, to be good &amp; Mar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lead, to ſet a Marke or Stampe vpon it, whereby the buyer of the ſame Lead may be aſſured of the goodnes &amp; well making vp &amp; melting of the ſame. And to that end &amp; purpoſe Our will &amp; plea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wée doe héerby for Us, our Heires &amp; Succeſſors, grant that the ſaid Officer or Officers, ſhall and may haue a Seale or ſtampe to be vſed by him, or them, or his or their Deputy or Deputies, <gap reason="illegible" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> may alter, breake, or make a new at his, and their pleaſure.</p>
+            <p>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d further, Wée doe héerby for Us, our Heires and Succeſſors, giue power &amp; authority vnto to ſaid Officer and Officers ſo as aforeſaid to be nominated &amp; appointed, by himſelfe or themſelues, <gap reason="illegible" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> their Deputy or Deputies, to doe any other lawfull acts tending to the reformation of the abuſes, practices &amp; deceipts aforeſaid, according to our true intent &amp; meaning in theſe preſents expreſſed. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the end that ſuch perſons as ſhall héerafter offend in any the premiſſes, may be left without excuſe, and receiue ſome condigne puniſhment for ſuch their offences, Wée doe by theſe preſents alſo for <gap reason="illegible" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> Heires &amp; Succeſſors, ſtraightly charge, prohibite and forbid all, and all manner of perſons whatſoeuer, that they or any of them doe not at any time or times héerafter attempt or preſume to take <gap reason="illegible" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> way any Lead from, or out of any melting or ſmelting houſe within this our Realme of <hi>England,</hi> or the Dominion of <hi>Wales,</hi> or any part of them or either of them, before y<hi rend="sup">e</hi> ſame Lead be duly tri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>hed &amp; Sealed by the ſaid Officer of Officers, or his or their aſſignes, Deputies or ſeruants, or ſome or one of them, who for that purpoſe at all times conuenient ſhall attend the ſame, vpon paine <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ture of all ſuch Lead ſo taken, or carryed away from the ſaid melting or ſmelting houſes contrary to the true meaning of theſe preſents, and alſo vpon paine of our heauy indignation &amp; diſpleaſure, <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> further paines, penalties, puniſhments, and ympriſonments, as by any of the Lawes or Statutes of this Realme can or may be inflicted vpon the offenders héerin for their contempt or diſobedi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heaking or contemning this our Royall Commandement.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the better helpe and aſſiſſance of the ſaid Officer &amp; Officers, and his &amp; their aſſignes, Deputies &amp; ſeruants in this ſeruice, for the better diſcouery of the fraudes and abuſes aforeſaid, Wée doe <gap reason="illegible" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> Us, our Heires &amp; Succeſſors, giue full power &amp; authority vnto the ſaid Officer and Officers, and his and their aſſignes, Deputies, and ſeruants, or any of them, from time to time, and at all <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rafter at his and their &amp; euery or any of their will and pleaſure, aſwell by night as by day, to goe on Boord, view, and ſearch, and ſuruey euery Ship, veſſell or bottome ryding or lying or lying within <gap reason="illegible" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap>, Hauen or Créeke of this Realme of <hi>England,</hi> or the Dominion of <hi>Wales,</hi> or any part thereof, and by day time with the aſſiſtance of a Conſtable, or other Officer, to goe and enter into any <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Uawlt, Ware-houſe, ſhop, or other place, to ſée if there ſhall be any Lead taken or carryed from the melting or ſmelting houſes aforeſaid, before the ſame hath béene veiwed, weighed, tried and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> according to the true meaning of theſe preſents; and there in due &amp; lawfull maner to ſeize, take &amp; carry away all ſuch Lead as hée or they, or any of them ſhall find to be ſo taken &amp; carryed from the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> houſes vnweighed and vnmarked, contrary to our pleaſure héerein expreſſed, The moitie or one halfe of all which forfeitures, wée doe for Us, our Heires and Succeſſors, giue and grant to the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ficer and Officers, and his &amp; their Deputies and aſſignes: And the other moytie thereof, wée will ſhall be reſerued &amp; anſwered to the vſe of Us, our Heires and Succeſſors.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> becauſe the well managing of this buſines tendeth to the great benefit of all perſons that ſhall be occaſioned to vſe any of the ſaid Lead, &amp; that the ſame cannot be vndergone without great &amp; dayly <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the maintenance of fit and able Deputies, Miniſters, and other perſons to attend the execution of the ſeruice incident to the aforeſaid Office; Wée doe héerby for Us, our Heires &amp; Succeſſors, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e &amp; ordaine, that it ſhall and may be lawfull for, and alſo giue power &amp; authority vnto the ſaid Officer and Officers, from time to time héerafter by himſelfe, or themſelues, or his or their aſſgnes <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s or ſeruants, to aske, demand, receiue &amp; take of euery Owner and Owners, Maker &amp; Makers vp of Lead, for the viewing, ſurueying, trying &amp; marking of euery Hundred waight of Lead at any <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rafter to be melted and made vp within this our Kingdome of <hi>England,</hi> and the Dominion of <hi>Wales,</hi> or either of them, and which by the ſaid Officer or Officers, or their, or any of their aſſignes, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>es, &amp; ſeruants, or ſome, or any of them ſhal be viewed, ſurueyed, weighed &amp; marked according to the true meaning of theſe preſents, the Sum of Two pence of currant money of <hi>England,</hi> which ſaid <gap reason="illegible" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> Two pence vpon euery Hundred waight of the ſaid Lead, Our pleaſure likewiſe is, ſhall be taken, receiued and paid at the melting or ſmelting houſes before the ſaid Lead be ſold, vttered or diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> out of the ſame; And that the ſaid Two pence vpon euery Hundred waight of the ſaid Lead appointed to be receiued &amp; taken as aforeſaid, be for euer héerafter vnited &amp; annexed to the ſaid Office <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or duty to be taken and receiued for the ſurueying, viewing, trying &amp; marking the ſaid Lead; And that the ſaid fée or duty be taken &amp; receiued by the ſaid Officer or Officers, or his or their depu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſignes in manner aforeſaid, without the let or contradiction of Us, our Heires or Succeſſors, or any of our, or their Officers or Miniſters, or other perſons whatſoeuer.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the better effecting of Our will &amp; pleaſure héerin, KNOW, yée, that wée repoſing aſſured truſt &amp; cofidence in the vnderſtanding, fidelity &amp; circumſpection of our wel-beloued <hi>Henry Bell</hi> Eſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> of Our eſpeciall Grace and certaine knowledge, and méere motion, haue giuen and granted, and by theſe preſents for Us, our Heires &amp; Succeſſors, Wée doe giue &amp; grant vnto the ſaid <hi>Henry Bell,</hi> 
+               <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> aſſignes the foreſaid Office of Surueyor, of Us, our Heires &amp; Succeſſors of Lead, with the appurtenances, And him the ſaid <hi>Henry Bell,</hi> and his aſſignes, the Surueyor &amp; Surueyors of Us, our <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ant Succeſſors of Lead, to doe, performe, and execute all and ſingular the premiſſes by the Officer or Officers aforeſaid, according to the true meaning héereof to be performed, Wée doe for Us, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ires and Succeſſors, make, ordaine, create and conſtitute, by theſe preſents.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> haue and to hold the ſaid Office, together with all and ſingular the powers, priuiledges, Fées, duties, forfeitures, and premiſſes to the ſaid <hi>Henry Bell,</hi> and his aſſignes, by himſelfe, or themſelues <gap reason="illegible" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> their ſufficient Deputy or Deputies, for and during the tearme, and vnto the full end &amp; tearme of Thirty and One yéeres from the day of the Date of theſe preſents, next enſuing, and fully to bée <gap reason="illegible" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> and ended.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
